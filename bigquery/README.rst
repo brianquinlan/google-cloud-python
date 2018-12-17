@@ -1,7 +1,7 @@
 Python Client for Google BigQuery
 =================================
 
-|GA| |pypi| |versions|
+|GA| |pypi| |versions| |compatibility|
 
 Querying massive datasets can be time consuming and expensive without the
 right hardware and infrastructure. Google `BigQuery`_ solves this problem by
@@ -17,6 +17,8 @@ processing power of Google's infrastructure.
    :target: https://pypi.org/project/google-cloud-bigquery/
 .. |versions| image:: https://img.shields.io/pypi/pyversions/google-cloud-bigquery.svg
    :target: https://pypi.org/project/google-cloud-bigquery/
+.. |compatibility| image:: https://python-compatibility-tools.appspot.com/one_badge_image?badge_name=compatibility&package=git%2Bgit://github.com/googleapis/google-cloud-python.git%23subdirectory=bigquery
+   :target: https://python-compatibility-tools.appspot.com/one_badge_target?package=git%2Bgit://github.com/googleapis/google-cloud-python.git%23subdirectory=bigquery
 .. _BigQuery: https://cloud.google.com/bigquery/what-is-bigquery
 .. _Client Library Documentation: https://googlecloudplatform.github.io/google-cloud-python/latest/bigquery/index.html
 .. _Product Documentation: https://cloud.google.com/bigquery/docs/reference/v2/
